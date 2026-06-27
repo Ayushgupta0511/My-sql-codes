@@ -1,12 +1,10 @@
 # 🗄️ MySQL Masterclass — Engineering Digest
 
 <div align="center">
-  <!-- Premium MySQL Styled High-Impact Banner -->
   <img src="https://capsule-render.vercel.app/api?type=slice&color=00758f&height=240&section=header&text=MYSQL%20MASTERCLASS&fontSize=50&animation=fadeIn&fontColor=F29111&desc=🗄️%20Database%20Engineering%20with%20Engineering%20Digest&descSize=20&descAlignY=70&descColor=FFFFFF" width="100%" />
 
   <br><br>
 
-  <!-- Ultra-Stable High-Res Google Fluent Emojis -->
   <p align="center">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.gif" alt="Dolphin" width="75" height="75" />
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,8 +37,7 @@ Instead of just memorizing syntax, this repository focuses on understanding *how
 ## 🗺️ Learning Roadmap & Architecture
 
 <div align="center">
-  <!-- Relatable DB Meme -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z2I0Z3E4ZXg0N2szbW95M3g1NXN3ZXN5Zms0Y280ZXA0d3g0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="450" alt="Coding GIF" />
+  <img src="https://noborus.github.io/ov/mysql/ov-mysql2.gif" width="450" alt="Coding GIF" />
   <p><i>Me trying to figure out why my query took 4.5 seconds before adding an Index</i></p>
 </div>
 
@@ -108,8 +105,7 @@ Here are the complete database designs and case studies I have implemented so fa
 * **Indexes aren't free:** While they speed up `SELECT` operations exponentially, they slow down `INSERT`, `UPDATE`, and `DELETE` actions due to index tree re-balancing.
 
 <div align="center">
-  <!-- Missing Where Clause Meme Visual -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnd0cmN6ODByNXNnbGl1OXk0N3VpMXN6NWhwN3hsc2NpYnZ6dGsxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9KwqNmQ6ax3BMZAtZi/giphy.gif" width="400" alt="Debugging Meme" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMmtkaXExcXM0YXJsazZjYTdiNHQ5a2F6azQyendhemhwZG42ZmRtbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OI4ZG4SjbCJz9VTb53/giphy.gif" width="400" alt="Debugging Meme" />
   <p><i>The exact moment you run an UPDATE query but forgot to append the WHERE clause...</i></p>
 </div>
 
